@@ -21,5 +21,10 @@ public class C03_StringBuilder {
         System.out.println("sb1 capacity : " + sb1.capacity());
 
 
+
+
+
+
+
     }
 }
