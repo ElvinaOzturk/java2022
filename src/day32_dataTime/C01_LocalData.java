@@ -27,9 +27,6 @@ public class C01_LocalData {
         //İstedigimiz ulkeni o andaki tarihini elde etmek istersek
 
 
-
-
-
         //is ile baslayan method'lar boolean sonuclar dondurur
         System.out.println(LocalDate.now().isLeapYear());//false
         System.out.println(trh.isAfter(baskaTrh));//true
